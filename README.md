@@ -1,11 +1,11 @@
 # Readme
 ## Convert Markdown to HTML
 ```bash
-# Install markdown
-python -m pip install markdown
+# Install requirements:
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
 
-# Convert
-cat index.md | python -m markdown > output.html
+# Edit index.md and run:
+make
 ```
-
-https://www.devdungeon.com/content/convert-markdown-html-python

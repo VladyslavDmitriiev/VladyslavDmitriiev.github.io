@@ -10,7 +10,7 @@
 **Github:** [https://github.com/VladyslavDmitriyev](https://github.com/VladyslavDmitriyev)  
 
 ## **Experience**
-`04/2021-Present`  
+`04/2021 - Present`  
 ### Sync.AI, Kyiv — Middle QA Engineer (WEB/Android/iOS)  
 TODO: update info
 
