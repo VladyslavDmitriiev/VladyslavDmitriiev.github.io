@@ -6,7 +6,7 @@
 **Phone:** +380936167430  
 **Skype:** live:questorus  
 **Mail:** vladyslav.dmitriyev@gmail.com  
-**Linkedin:** [https://www.linkedin.com/in/vladyslav-dmitriyev-023749a5](https://github.com/VladyslavDmitriyev)  
+**Linkedin:** [https://www.linkedin.com/in/vladyslav-dmitriyev-023749a5](https://www.linkedin.com/in/vladyslav-dmitriyev-023749a5)  
 **Github:** [https://github.com/VladyslavDmitriyev](https://github.com/VladyslavDmitriyev)  
 
 ## **Experience**
