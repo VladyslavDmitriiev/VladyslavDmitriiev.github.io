@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Vladyslav Dmitriyev  
 
-You can use the [editor on GitHub](https://github.com/VladyslavDmitriyev/VladyslavDmitriyev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="./img/vlad.jpg" width="200" align="right"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Address:** Kyiv  
+**Phone:** +380936167430  
+**Skype:** live:questorus  
+**Mail:** vladyslav.dmitriyev@gmail.com  
+**Linkedin:** [https://www.linkedin.com/in/vladyslav-dmitriyev-023749a5](https://github.com/VladyslavDmitriyev)  
+**Github:** [https://github.com/VladyslavDmitriyev](https://github.com/VladyslavDmitriyev)  
 
-### Markdown
+## **Experience**
+`04/2021-Present`  
+### Sync.AI, Kyiv — Middle QA Engineer (WEB/Android/iOS)  
+TODO: update info
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+`09/2020 - 04/2021`  
+### Developex, Kyiv - Middle QA Engineer (Desktop/SDK)  
+- Test case execution
+- Bug posting & tracking.
+- Verifying fixed bug.
+- Acceptance testing of the newly implemented feature.
+- Feature-level testing.
+- Function-level testing.
+- Bugs root cause discovering, bug prioritization.
+- Functional test coverage of a product function. (checklist/testsuite/
+traceability matrix)
+- Requirements analyzing/testing/specifying.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+`01/2019 - 09/2020`  
+### iSellMore, Kyiv — QA Engineer (WEB/Android/iOS)  
 
-1. Numbered
-2. List
+- Verifying fixed bug.
+- Feature-level testing.
+- Bugs root cause discovering, bug prioritization.
+- Requirements analyzing/testing/specifying.
 
-**Bold** and _Italic_ and `Code` text
+## **Education**
+`2010 - 2016`  
+### Kyiv University of Law of the National Academy of Sciences Of Ukraine  
+- Master's degree in Intellectual property
 
-[Link](url) and ![Image](src)
-```
+## **Skills**
+- SQL
+- Playwright
+- TypeScript
+- - Jest
+- Python
+- - Pytest
+- Bash
+- Selenium/Appium
+- Git
+- Postman
+- Charles
+- Chrome Developer Tools
+- Jira
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VladyslavDmitriyev/VladyslavDmitriyev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## **Languages**
+- English — B1  
+- Russian — Native speaker  
+- Ukrainian — Native speaker  
