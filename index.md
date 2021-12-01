@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+---
+layout: cv
+title: Isaac Newtons's CV
+---
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
-You can use the [editor on GitHub](https://github.com/VladyslavDmitriyev/VladyslavDmitriyev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Currently
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Standing on the shoulders of giants
 
-```markdown
-Syntax highlighted code block
+### Specialized in
 
-# Header 1
-## Header 2
-### Header 3
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Research interests
 
-**Bold** and _Italic_ and `Code` text
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Education
 
-### Jekyll Themes
+`1654-1660`
+__The King's School, Grantham.__
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VladyslavDmitriyev/VladyslavDmitriyev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-### Support or Contact
+- Sizar
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
+
+
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
