@@ -1,7 +1,7 @@
 import markdown
 
 
-with open('src/index.md', 'r') as md:
+with open('index.md', 'r') as md:
   markdown_file = md.read()
 
 markdown_to_html = markdown.markdown(markdown_file)
