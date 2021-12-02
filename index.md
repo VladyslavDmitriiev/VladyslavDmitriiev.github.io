@@ -28,8 +28,6 @@ Applying automation testing for the Web project via TypeScript/Playwright/Playwr
 
 
 
----
-
 ## **Experience**
 
 ### Sync.AI, Kyiv  
