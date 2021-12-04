@@ -13,18 +13,20 @@
 ## **Summary**
 QA Engineer with 3 years of experience in testing. Web, mobile, desktop.  
 Have experience in testing software solutions for FMCG companies.  
-Applied automation for Android smoke tests via Python/Appium/Pytest. (6 months)
-Applied automation for API tests via Python/Requests/Pytest. (6 months)
+Applied automation for Android smoke tests via Python/Appium/Pytest. (6 months)  
+Applied automation for API tests via Python/Requests/Pytest. (6 months)  
 
 Have experience in SDK testing for the desktop(embedded) project.  
 Worked in both small (2-3 members) and large (25-30 members) QA teams.  
 
 Currently working with 1 Web, 3 iOS, and 4 Android projects.  
 Have experience in API testing:
-- Manual: Postman
-- Automation: TypeScript/got/jest ([Project for reference](https://github.com/VladyslavDmitriyev/ts-api-testing))
 
-Applying automation testing for the Web project via TypeScript/Playwright/Playwright Test runner. (6 months)
+
+- Manual: Postman  
+- Automation: TypeScript/got/jest ([Project for reference](https://github.com/VladyslavDmitriyev/ts-api-testing))  
+
+Applying automation testing for the Web project via TypeScript/Playwright/Playwright Test runner. (6 months)  
 
 
 
