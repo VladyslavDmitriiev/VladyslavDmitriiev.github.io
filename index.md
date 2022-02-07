@@ -27,7 +27,7 @@ Have experience in API testing:
 - Manual: Postman  
 - Automation: TypeScript/got/jest ([Project for reference](https://github.com/VladyslavDmitriyev/ts-api-testing))  
 
-Applying automation testing for the Web project via TypeScript/Playwright/Playwright Test runner. (7 months)  
+Applying automation testing for the Web project via TypeScript/Playwright/Playwright Test runner and for mobile projects via Kotlin/Appium. (9 months)  
 
 
 
@@ -42,7 +42,8 @@ Applying automation testing for the Web project via TypeScript/Playwright/Playwr
 - Requirements analyzing/testing/specifying.
 - Creating and maintaining acceptance tests (Manual)
 - Test case execution
-- Creating and maintaining web automation tests (TypeScript/Playwright)
+- Creating and maintaining web automation (TypeScript/Playwright)
+- Creating and maintaining mobile automation (Kotlin/Appium)
 
 
 
@@ -86,6 +87,7 @@ traceability matrix)
 - - Jest
 - Python
 - - Pytest
+- Kotlin
 - Bash
 - Selenium/Appium
 - Git
