@@ -21,13 +21,8 @@ Have experience in SDK testing for the desktop(embedded) project.
 Worked in both small (2-3 members) and large (25-30 members) QA teams.  
 
 Currently working with 1 Web, 3 iOS, and 4 Android projects.  
-Have experience in API testing:
-
-
-- Manual: Postman  
-- Automation: TypeScript/got/jest ([Project for reference](https://github.com/VladyslavDmitriyev/ts-api-testing))  
-
-Applying automation testing for the Web project via TypeScript/Playwright/Playwright Test runner and for mobile projects via Kotlin/Appium. (9 months)  
+Have experience in API testing
+Applying automation testing for the Web project via TypeScript/Playwright/Playwright Test runner and for mobile projects via Kotlin/Appium. (12 month)  
 
 
 
