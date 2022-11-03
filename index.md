@@ -1,4 +1,4 @@
-# Vladyslav Dmitriyev  
+# Vladyslav Dmitriiev  
 
 <img src="./img/vlad.jpg" width="200px" style="float: right; border-radius: 50%"/>
 
@@ -6,9 +6,9 @@
 **Address:** Kyiv  
 **Phone:** +380936167430  
 **Skype:** live:questorus  
-**Mail:** vladyslav.dmitriyev@gmail.com  
-**Linkedin:** [https://www.linkedin.com/in/Vladyslav-Dmitriyev](https://www.linkedin.com/in/Vladyslav-Dmitriyev)  
-**Github:** [https://github.com/VladyslavDmitriyev](https://github.com/VladyslavDmitriyev)  
+**Mail:** vladyslav.dmitriiev@pm.me  
+**Linkedin:** [linkedin.com/in/Vladyslav-Dmitriiev](https://www.linkedin.com/in/Vladyslav-Dmitriiev)  
+**Github:** [github.com/VladyslavDmitriiev](https://github.com/VladyslavDmitriiev)  
 
 ## **Summary**
 QA Engineer with 3 years of experience in testing. Web, mobile, desktop.  
@@ -22,7 +22,7 @@ Worked in both small (2-3 members) and large (25-30 members) QA teams.
 
 Currently working with 1 Web, 3 iOS, and 4 Android projects.  
 Have experience in API testing
-Applying automation testing for the Web project via TypeScript/Playwright/Playwright Test runner and for mobile projects via Kotlin/Appium. (12 month)  
+Applying automation testing for mobile projects via Kotlin/Appium. (18 month)  
 
 
 
@@ -37,7 +37,6 @@ Applying automation testing for the Web project via TypeScript/Playwright/Playwr
 - Requirements analyzing/testing/specifying.
 - Creating and maintaining acceptance tests (Manual)
 - Test case execution
-- Creating and maintaining web automation (TypeScript/Playwright)
 - Creating and maintaining mobile automation (Kotlin/Appium)
 
 
